@@ -83,3 +83,12 @@ En macOS, estos comandos funcionan igual desde la terminal.
 ```bash exec="on"
 tilt up
 ```
+
+### Panel general de Tiltfile
+![Panel general con apps cargadas](/docs/1.png)
+
+### Logs centralizados de las apps
+![Panel de logs de las apps](/docs/2.png)
+
+### Guardar snapshots del estado de Tilt
+![Popup para guardar snapshots](/docs/3.png)
